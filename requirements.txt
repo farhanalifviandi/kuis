@@ -1,6 +1,4 @@
 streamlit
 pandas
-gsheetsdb
-gspread
-oauth2client
 streamlit-gsheets
+st-gsheets-connection
